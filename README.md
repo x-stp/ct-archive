@@ -30,9 +30,11 @@ logs, as well as tools to archive RFC 6962 and Static CT logs.
 | sphinx.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_sphinx2024h1 | [.torrent](https://archive.org/download/ct_digicert_sphinx2024h1/ct_digicert_sphinx2024h1_archive.torrent) |
 | sphinx.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_sphinx2024h2 | [.torrent](https://archive.org/download/ct_digicert_sphinx2024h2/ct_digicert_sphinx2024h2_archive.torrent) |
 | sphinx.ct.digicert.com/2025h1 | https://archive.org/details/ct_digicert_sphinx2025h1 |
+| sphinx.ct.digicert.com/2025h2 | https://archive.org/details/ct_digicert_sphinx2025h2 |
 | wyvern.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_wyvern2024h1 | [.torrent](https://archive.org/download/ct_digicert_wyvern2024h1/ct_digicert_wyvern2024h1_archive.torrent) |
 | wyvern.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_wyvern2024h2 | [.torrent](https://archive.org/download/ct_digicert_wyvern2024h2/ct_digicert_wyvern2024h2_archive.torrent) |
 | wyvern.ct.digicert.com/2025h1 | https://archive.org/details/ct_digicert_wyvern2025h1 |
+| wyvern.ct.digicert.com/2025h2 | https://archive.org/details/ct_digicert_wyvern2025h2 |
 | ct.ws.symantec.com | https://archive.org/details/ct_symantec_ct † | [.torrent](https://archive.org/download/ct_symantec_ct/ct_symantec_ct_archive.torrent) |
 | vega.ws.symantec.com | https://archive.org/details/ct_symantec_vega † | [.torrent](https://archive.org/download/ct_symantec_vega/ct_symantec_vega_archive.torrent) |
 | sirius.ws.symantec.com | https://archive.org/details/ct_symantec_sirius † | [.torrent](https://archive.org/download/ct_symantec_sirius/ct_symantec_sirius_archive.torrent) |
