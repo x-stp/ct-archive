@@ -108,7 +108,11 @@ def main():
     print("  Description: (omitted for brevity)", file=sys.stderr)
     print(f"  Subject: {new_metadata['subject']}", file=sys.stderr)
     print(f"  CT Log ID: {new_metadata['ctlogid']}", file=sys.stderr)
-    print(f"  CT URL: {new_metadata['cturl']}", file=sys.stderr)
+    if 'cturl' in new_metadata:
+        print(f"  CT URL: {new_metadata['cturl']}", file=sys.stderr)
+    if 'ctsubmissionurl' in new_metadata:
+        print(f"  CT Submission URL: {new_metadata['ctsubmissionurl']}", file=sys.stderr)
+        print(f"  CT Monitoring URL: {new_metadata['ctmonitoringurl']}", file=sys.stderr)
     if 'ctintervalstart' in new_metadata and 'ctintervalend' in new_metadata:
         print(f"  CT Interval Start: {new_metadata['ctintervalstart']}", file=sys.stderr)
         print(f"  CT Interval End: {new_metadata['ctintervalend']}", file=sys.stderr)
